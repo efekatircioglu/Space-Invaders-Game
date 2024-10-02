@@ -24,12 +24,14 @@ Your goal is to destroy as many enemies as possible while avoiding being hit. Co
 To install Pygame, open your terminal and run: pip install pygame
 
 ### Clone the Repository
-To get the game files, clone the repository by running:
-git clone https://github.com/YourUsername/space-invaders.git
-cd space-invaders
+To get the game files, make sure that you download "images" file and main.py 
+Make sure that both of those files are in your desktop.
 
 ### Run the Game
-In the terminal, execute the following command to run the game: python main.py
+In the terminal, execute the following command to run the game: cd ~/Desktop
+and
+python3 main.py
+
 
 
 ### Controls
